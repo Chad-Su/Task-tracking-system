@@ -1,0 +1,6 @@
+asgiref==3.4.1
+Django==1.11.28
+pytz==2022.1
+qcloudsms-py==0.1.4
+sqlparse==0.4.2
+typing_extensions==4.1.1
